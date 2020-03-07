@@ -1,0 +1,7 @@
+<map id="Scena::SterowanieAktualnymDronem" name="Scena::SterowanieAktualnymDronem">
+<area shape="rect" id="node2" href="$_funkcje_do_menu_8hh.html#ae7c1829950587c3c9eb9089684150c19" title="Funkcja pozwalajaca na wyswietlenie menu na cout. " alt="" coords="248,101,356,127"/>
+<area shape="rect" id="node3" href="$class_wektor.html#a9ee79389dfef2a5cc8a376e128820d76" title="Metoda zwraca ilosc stworzonych obiektow klasy Wektor. " alt="" coords="427,5,608,47"/>
+<area shape="rect" id="node4" href="$class_wektor.html#a3cd1385dfa3d738c93679358fba81c01" title="Metoda zwraca ilosc aktualnie uzywanych obiektow klasy Wektor. " alt="" coords="404,71,631,98"/>
+<area shape="rect" id="node5" href="$class_obiekt_sceny.html#a19d35fa5616d2e56188495b3520733f7" title="Metoda zwraca ilosc LacznaIloscObiektowScenow. " alt="" coords="426,123,609,164"/>
+<area shape="rect" id="node6" href="$class_obiekt_sceny.html#a192ff9fca1bd95d067348606be1149f3" title="Metoda zwraca ilosc aktualnie istniejacych IloscObiektowSceny. " alt="" coords="405,188,629,229"/>
+</map>

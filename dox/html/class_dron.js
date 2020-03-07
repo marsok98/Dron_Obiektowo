@@ -1,0 +1,28 @@
+var class_dron =
+[
+    [ "AnimowanyObrotDrona", "class_dron.html#a6a2656f09ed58e3845b49350f01327b8", null ],
+    [ "AnimowanyObrotSmigiel", "class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c", null ],
+    [ "AnimowanyRuchNaWprost", "class_dron.html#a57438556cf7d1fdda9797d4774544d6e", null ],
+    [ "CzyZaszlaKolizja", "class_dron.html#a715d6bc30f1a73e4078c5e0c761a0ade", null ],
+    [ "DodajPlikiDronowi", "class_dron.html#ad717c641f65dcca6fd7fcadcfc3a6488", null ],
+    [ "Inicjalizuj", "class_dron.html#aadec0bd26042be4d0d1536da3ddd79f9", null ],
+    [ "ObrocDrona", "class_dron.html#a73d0c186c0346ae2cd6e5ab653ddc39d", null ],
+    [ "PobierzGruboscDrona", "class_dron.html#a5a16cf3412dc4a556d79aad5a148075f", null ],
+    [ "PobierzKat_Z", "class_dron.html#ab01a02999e1109f06105162afa38ee5a", null ],
+    [ "PobierzRozstawDrona", "class_dron.html#a07471c527f31994852b782f96b581470", null ],
+    [ "PobierzWektorPrzesuniecia", "class_dron.html#adcdf161a9c0fb12ca46b87765e58e4ed", null ],
+    [ "PrzesunDronaDodajDoWektoraPrzesuniecia", "class_dron.html#a23f88c97ab3874eb69ea71e3539a5f59", null ],
+    [ "PrzesunDronaNaSrodekUkladuWspolrzednych", "class_dron.html#ab2aa15f89c0c9b87e73c084b43dfe177", null ],
+    [ "WczytajSkaleDrona", "class_dron.html#ae5219d22da254cba3e57c52d709c5d26", null ],
+    [ "WrocNaPozycjeDronemPoLekkimObrocie", "class_dron.html#af050336d92fb927d222229499c4b9050", null ],
+    [ "ZapiszDronaDoPlikow", "class_dron.html#a14d35c4eeb974a1526a6f607930ee95b", null ],
+    [ "Grubosc_Wirnika", "class_dron.html#a3f62cd90cc4486a6247fefd091bb7845", null ],
+    [ "GruboscDrona", "class_dron.html#ae20776646ca10c0561e2e4b9d0a6da91", null ],
+    [ "KatZ_stopnie", "class_dron.html#a23e9bfb45c7e4fd39cabd90dd31f9a76", null ],
+    [ "Korpus", "class_dron.html#a20e613a519fbff8b7561325a1b965171", null ],
+    [ "Rotor", "class_dron.html#a41ab90c0386641afc2b02556d7d250c8", null ],
+    [ "RozstawDrona", "class_dron.html#a1c3ef6135af74cf265c863a8005b29a4", null ],
+    [ "SkalaDrona", "class_dron.html#a48cfcd0ad0a72a8fcdead034208f8d5d", null ],
+    [ "Wymiar_Korpusu", "class_dron.html#aeb4ef6083e70c7b95f2bf1b77c935d7a", null ],
+    [ "Wymiar_Wirnika", "class_dron.html#ad6ab34458a8ad41157468ac04a325478", null ]
+];

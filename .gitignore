@@ -1,0 +1,6 @@
+
+prj/wirnik*
+prj/korpus*
+prj/Przeszkoda*
+#ignore objects
+obj/

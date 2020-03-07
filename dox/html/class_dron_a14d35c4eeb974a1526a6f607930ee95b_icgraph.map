@@ -1,0 +1,6 @@
+<map id="Dron::ZapiszDronaDoPlikow" name="Dron::ZapiszDronaDoPlikow">
+<area shape="rect" id="node2" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="491,30,707,57"/>
+<area shape="rect" id="node3" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="755,55,941,82"/>
+<area shape="rect" id="node4" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="241,81,443,107"/>
+<area shape="rect" id="node5" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="502,131,695,158"/>
+</map>

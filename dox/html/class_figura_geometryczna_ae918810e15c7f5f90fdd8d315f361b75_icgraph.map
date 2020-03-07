@@ -1,0 +1,6 @@
+<map id="FiguraGeometryczna::PobierzWektorPrzesuniecia" name="FiguraGeometryczna::PobierzWektorPrzesuniecia">
+<area shape="rect" id="node2" href="$class_dron.html#adcdf161a9c0fb12ca46b87765e58e4ed" title="Metoda umozliwia pobranie Wektora Przesuniecia z korpusu co jest jednoznaczne punktem srodka Drona..." alt="" coords="244,5,463,32"/>
+<area shape="rect" id="node5" href="$class_przeszkoda_pr.html#a088fcefd30205f02b14fe1bb1645488a" title="Metoda ktora sprawdza czy zaszla kolizja miedzy dronem a przeszkoda. " alt="" coords="246,56,461,83"/>
+<area shape="rect" id="node3" href="$class_dron.html#a715d6bc30f1a73e4078c5e0c761a0ade" title="Metoda ktora sprawdza czy zaszla kolizja miedzy dronami. " alt="" coords="511,5,671,32"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="719,5,905,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="ObiektSceny.hh" name="ObiektSceny.hh">
+<area shape="rect" id="node2" href="$_funkcje_do_menu_8hh.html" title="FunkcjeDoMenu.hh" alt="" coords="158,80,293,107"/>
+<area shape="rect" id="node3" href="$_dron_8hh.html" title="Dron.hh" alt="" coords="321,155,389,181"/>
+<area shape="rect" id="node4" href="$_fabryka_obiektow_8hh.html" title="FabrykaObiektow.hh" alt="" coords="249,304,391,331"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="main.cpp" alt="" coords="55,453,129,480"/>
+<area shape="rect" id="node9" href="$_przeszkoda_pr_8hh.html" title="PrzeszkodaPr.hh" alt="" coords="464,229,587,256"/>
+<area shape="rect" id="node13" href="$_obiekt_sceny_8cpp.html" title="ObiektSceny.cpp" alt="" coords="515,80,637,107"/>
+<area shape="rect" id="node5" href="$_scena_8hh.html" title="Scena.hh" alt="" coords="144,379,221,405"/>
+<area shape="rect" id="node12" href="$_funkcje_do_menu_8cpp.html" title="FunkcjeDoMenu.cpp" alt="" coords="154,155,297,181"/>
+<area shape="rect" id="node11" href="$_dron_8cpp.html" title="Dron.cpp" alt="" coords="315,229,389,256"/>
+<area shape="rect" id="node8" href="$_fabryka_obiektow_8cpp.html" title="FabrykaObiektow.cpp" alt="" coords="245,379,395,405"/>
+<area shape="rect" id="node7" href="$_scena_8cpp.html" title="Scena.cpp" alt="" coords="154,453,238,480"/>
+<area shape="rect" id="node10" href="$_przeszkoda_pr_8cpp.html" title="PrzeszkodaPr.cpp" alt="" coords="470,304,599,331"/>
+</map>

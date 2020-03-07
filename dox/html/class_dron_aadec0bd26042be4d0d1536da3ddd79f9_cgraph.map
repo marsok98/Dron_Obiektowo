@@ -1,0 +1,5 @@
+<map id="Dron::Inicjalizuj" name="Dron::Inicjalizuj">
+<area shape="rect" id="node2" href="$class_prostopadloscian.html#a488debf3cda363bf41c03a7797c2f4b8" title="Metoda inicjalizuje wierzcholki prostopadloscianu do zadanych wartosci. " alt="" coords="165,5,349,32"/>
+<area shape="rect" id="node3" href="$class_graniastoslup6.html#ab0a15d736257ddb309e06badc426892b" title="Metoda inicjalizuje wierzcholki Graniastoslupa szesciokatnego foremnego. " alt="" coords="172,56,343,83"/>
+<area shape="rect" id="node4" href="$class_figura_geometryczna.html#ae433afbbd8e9c6d5530b970d9430b9eb" title="Metoda umozliwia dodanie Wektora3D do WektoraOffsetu. " alt="" coords="173,107,342,163"/>
+</map>

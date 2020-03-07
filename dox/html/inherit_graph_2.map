@@ -1,0 +1,8 @@
+<map id="Graficzna hierarchia klas" name="Graficzna hierarchia klas">
+<area shape="rect" id="node1" href="$class_figura_geometryczna.html" title="Klasa modeluje pojecie Figury Geometrycznej. " alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$class_graniastoslup6.html" title="Klasa modeluje pojecie Graniastoslupa szesciokatnego foremnego, dziedziczaca z FiguryGeometrycznej kt..." alt="" coords="203,5,312,32"/>
+<area shape="rect" id="node3" href="$class_prostopadloscian.html" title="Klasa modeluje pojecie Prostopadloscianu, dziedziczaca z FiguryGeometryczny. " alt="" coords="196,56,319,83"/>
+<area shape="rect" id="node4" href="$class_przeszkoda_pr.html" title="Klasa modeluje pojecie Przeszkody Prostopadlosciennej. " alt="" coords="205,107,309,133"/>
+<area shape="rect" id="node5" href="$class_obiekt_sceny.html" title="Klasa modeluje pojecie Obiektu Sceny. " alt="" coords="28,132,125,159"/>
+<area shape="rect" id="node6" href="$class_dron.html" title="Klasa modeluje pojecie Dron. " alt="" coords="232,157,283,184"/>
+</map>

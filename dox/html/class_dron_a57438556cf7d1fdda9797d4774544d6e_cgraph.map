@@ -1,0 +1,14 @@
+<map id="Dron::AnimowanyRuchNaWprost" name="Dron::AnimowanyRuchNaWprost">
+<area shape="rect" id="node2" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="269,261,471,287"/>
+<area shape="rect" id="node9" href="$class_dron.html#a14d35c4eeb974a1526a6f607930ee95b" title="Metoda ktora zapisuje Drona do 5 plikow. " alt="" coords="558,385,746,411"/>
+<area shape="rect" id="node11" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota. " alt="" coords="568,436,736,477"/>
+<area shape="rect" id="node12" href="$class_dron.html#a23f88c97ab3874eb69ea71e3539a5f59" title="Metoda ktora przesuwa poszczegolne skladowe klasy Dron oraz dodaje do WektoraPrzesuniecia poszczegoln..." alt="" coords="274,496,466,537"/>
+<area shape="rect" id="node3" href="$_macierz3x3_8hh.html#ac48ad03c16eb91a198f8ee02fe0daf2c" title="Funkcja tworzy macierz obrotu przez os OZ. " alt="" coords="593,202,711,229"/>
+<area shape="rect" id="node4" href="$class_figura_geometryczna.html#a7785d792448bbd01758900602d3ba063" title="Metoda odejmuje WektorOffsetu. " alt="" coords="581,253,723,295"/>
+<area shape="rect" id="node5" href="$class_figura_geometryczna.html#a50870cb960a6d5cc9b20bdafb5a910d3" title="Metoda umozliwia powrot AktualnegoWierzcholka do polozenia poczatkowego tzn AktualnyWierzcholek = Poc..." alt="" coords="519,319,785,360"/>
+<area shape="rect" id="node6" href="$class_figura_geometryczna.html#ad2cb8225722b1ca29f7cfb51b243a819" title="Metoda obraca figure czyli przemnaza Wierzcholki Figury. " alt="" coords="581,5,723,47"/>
+<area shape="rect" id="node7" href="$class_figura_geometryczna.html#adbb5d81408c1aeead194eb39a9180be3" title="Metoda dodaje WektorOffsetu. " alt="" coords="581,71,723,112"/>
+<area shape="rect" id="node8" href="$class_figura_geometryczna.html#ad1907103d33eeb42e3a4eccf0c087a9d" title="Metoda dodaje do AktualnegoWierzcholka WektorPrzesuniecia. " alt="" coords="538,136,766,177"/>
+<area shape="rect" id="node10" href="$class_figura_geometryczna.html#a112eeabdbfaf9312a1725681a264255a" title="Metoda Zapisuje Figure do pliku z odpowiednia notacja. " alt="" coords="833,377,977,419"/>
+<area shape="rect" id="node13" href="$class_figura_geometryczna.html#a45a15531a0e087399c48bddcece25fb2" title="Metoda umozliwiajaca przesuniecie FiguryGeometrycznej o Wektor3D oraz dodanie do WektoraPrzesuniecia..." alt="" coords="525,501,779,543"/>
+</map>

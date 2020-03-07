@@ -1,0 +1,6 @@
+<map id="FiguraGeometryczna::Ustaw_Offset_" name="FiguraGeometryczna::Ustaw_Offset_">
+<area shape="rect" id="node2" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="196,56,397,83"/>
+<area shape="rect" id="node3" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="445,5,661,32"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="709,56,896,83"/>
+<area shape="rect" id="node5" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="457,107,650,133"/>
+</map>

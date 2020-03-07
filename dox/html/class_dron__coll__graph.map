@@ -1,0 +1,7 @@
+<map id="Dron" name="Dron">
+<area shape="rect" id="node2" href="$class_obiekt_sceny.html" title="Klasa modeluje pojecie Obiektu Sceny. " alt="" coords="5,185,103,212"/>
+<area shape="rect" id="node3" href="$class_prostopadloscian.html" title="Klasa modeluje pojecie Prostopadloscianu, dziedziczaca z FiguryGeometryczny. " alt="" coords="127,185,250,212"/>
+<area shape="rect" id="node4" href="$class_figura_geometryczna.html" title="Klasa modeluje pojecie Figury Geometrycznej. " alt="" coords="187,109,329,136"/>
+<area shape="rect" id="node6" href="$class_graniastoslup6.html" title="Klasa modeluje pojecie Graniastoslupa szesciokatnego foremnego, dziedziczaca z FiguryGeometrycznej kt..." alt="" coords="274,185,383,212"/>
+<area shape="rect" id="node5" href="$class_wektor.html" title="Wektor\&lt; 3 \&gt;" alt="" coords="211,5,305,32"/>
+</map>

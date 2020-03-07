@@ -1,0 +1,7 @@
+<map id="FiguraGeometryczna::WrocNaPozycjePoLekkimObrocie" name="FiguraGeometryczna::WrocNaPozycjePoLekkimObrocie">
+<area shape="rect" id="node2" href="$class_dron.html#af050336d92fb927d222229499c4b9050" title="Metoda ktora jest wykorzystywana po przesunieciu drona o maly kat zeby powrocic do pozycji przed prze..." alt="" coords="283,11,481,53"/>
+<area shape="rect" id="node5" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="281,77,483,104"/>
+<area shape="rect" id="node3" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="542,27,735,53"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="795,52,981,79"/>
+<area shape="rect" id="node6" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="531,128,747,155"/>
+</map>

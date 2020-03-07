@@ -1,0 +1,5 @@
+<map id="FiguraGeometryczna" name="FiguraGeometryczna">
+<area shape="rect" id="node2" href="$class_graniastoslup6.html" title="Klasa modeluje pojecie Graniastoslupa szesciokatnego foremnego, dziedziczaca z FiguryGeometrycznej kt..." alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$class_prostopadloscian.html" title="Klasa modeluje pojecie Prostopadloscianu, dziedziczaca z FiguryGeometryczny. " alt="" coords="139,80,261,107"/>
+<area shape="rect" id="node4" href="$class_przeszkoda_pr.html" title="Klasa modeluje pojecie Przeszkody Prostopadlosciennej. " alt="" coords="285,80,389,107"/>
+</map>

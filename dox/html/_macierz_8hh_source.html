@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Fabryka_Obiektow: Plik źródłowy Macierz.hh</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Fabryka_Obiektow
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano przez Doxygen 1.8.13 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Szukaj');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('_macierz_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">Macierz.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_macierz_8hh.html">Idź do dokumentacji tego pliku.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef MACIERZ_HH</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define MACIERZ_HH</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;</div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;</div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;iostream&gt;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="keyword">using namespace </span><a class="code" href="namespacestd.html">std</a>;</div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_wektor3_d_8hh.html">Wektor3D.hh</a>&quot;</span></div><div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="_macierz_8hh.html#a598a3330b3c21701223ee0ca14316eca">    8</a></span>&#160;<span class="preprocessor">#define PI 3.14159265</span></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">template</span>&lt;<span class="keywordtype">int</span> Wymiar&gt;</div><div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="class_macierz.html">   26</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_macierz.html">Macierz</a> {</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;</div><div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="class_macierz.html#a6280ee4e63cfbdf8741e843029de9f6e">   28</a></span>&#160;    <a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> macierz[Wymiar];</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;    </div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="keyword">public</span>:</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;  </div><div class="line"><a name="l00038"></a><span class="lineno"><a class="line" href="class_macierz.html#a6452ea87f7ed8bd4d2af6b060753fda7">   38</a></span>&#160;    <a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> operator [] (<span class="keywordtype">int</span> i)<span class="keyword"> const </span>{<span class="keywordflow">return</span> macierz[i];}</div><div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    </div><div class="line"><a name="l00046"></a><span class="lineno"><a class="line" href="class_macierz.html#a0a172481ef7a5e8b8fab590db258c03e">   46</a></span>&#160;    <a class="code" href="class_wektor.html">Wektor&lt;Wymiar&gt;</a> &amp;operator [] (<span class="keywordtype">int</span> i) {<span class="keywordflow">return</span> macierz[i];}</div><div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> <a class="code" href="_macierz3x3_8hh.html#ad8a4e4d0396266592222e58b065189ce">operator * </a>(<span class="keyword">const</span> <a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> &amp;Wek);</div><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;</div><div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <a class="code" href="class_macierz.html">Macierz</a>();</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;};   </div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;</div><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;</div><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;</div><div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;</div><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;</div><div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;</div><div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div><div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;</div><div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="keyword">template</span>&lt;<span class="keywordtype">int</span> Wymiar&gt;</div><div class="line"><a name="l00078"></a><span class="lineno"><a class="line" href="class_macierz.html#ae33a48c890de679719ec11fe51ec50af">   78</a></span>&#160;<a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> <a class="code" href="class_macierz.html#ae33a48c890de679719ec11fe51ec50af">Macierz&lt;Wymiar&gt;::operator * </a>(<span class="keyword">const</span> <a class="code" href="class_wektor.html">Wektor &lt;Wymiar&gt;</a> &amp;Wek)</div><div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;{</div><div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <a class="code" href="class_wektor.html">Wektor&lt;Wymiar&gt;</a> Wynik = {}; <span class="comment">//zainicjowanie tablicy zerami</span></div><div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;  <span class="keywordtype">int</span> i,j;</div><div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;  <span class="keywordflow">for</span>(i=0;i&lt;Wymiar;i++)</div><div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;  {</div><div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    <span class="keywordflow">for</span>(j=0;j&lt;Wymiar;j++)</div><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    {</div><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;      Wynik[i]+=macierz[i][j] * Wek[j];</div><div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    } </div><div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;  }</div><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;  <span class="keywordflow">return</span> Wynik;</div><div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;}</div><div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;</div><div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="keyword">template</span>&lt;<span class="keywordtype">int</span> Wymiar&gt;</div><div class="line"><a name="l00093"></a><span class="lineno"><a class="line" href="class_macierz.html#ae79a7c17192a0b4b5f8a60904e046fe4">   93</a></span>&#160;<a class="code" href="class_macierz.html#ae79a7c17192a0b4b5f8a60904e046fe4">Macierz&lt;Wymiar&gt;::Macierz</a>()</div><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;{</div><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <span class="keywordtype">int</span> i,k;</div><div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <span class="keywordflow">for</span>(i=0;i&lt;Wymiar;i++)</div><div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    {</div><div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;      <span class="keywordflow">for</span>(k=0;k&lt;Wymiar;k++)</div><div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;      {</div><div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;        <span class="keywordflow">if</span>(i==k)</div><div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;        {</div><div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;          macierz[i][k] = 1;</div><div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;        }</div><div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;        <span class="keywordflow">else</span></div><div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;        {</div><div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;          macierz[i][k] = 0;</div><div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;        }</div><div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;      }</div><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;    }</div><div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;}</div><div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;</div><div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;</div><div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;<span class="preprocessor">#endif</span></div><div class="ttc" id="namespacestd_html"><div class="ttname"><a href="namespacestd.html">std</a></div></div>
+<div class="ttc" id="class_macierz_html_ae33a48c890de679719ec11fe51ec50af"><div class="ttname"><a href="class_macierz.html#ae33a48c890de679719ec11fe51ec50af">Macierz::operator*</a></div><div class="ttdeci">Wektor&lt; Wymiar &gt; operator*(const Wektor&lt; Wymiar &gt; &amp;Wek)</div><div class="ttdoc">Przeciazenie operatora mnozenia. </div><div class="ttdef"><b>Definition:</b> <a href="_macierz_8hh_source.html#l00078">Macierz.hh:78</a></div></div>
+<div class="ttc" id="_wektor3_d_8hh_html"><div class="ttname"><a href="_wektor3_d_8hh.html">Wektor3D.hh</a></div></div>
+<div class="ttc" id="class_macierz_html_ae79a7c17192a0b4b5f8a60904e046fe4"><div class="ttname"><a href="class_macierz.html#ae79a7c17192a0b4b5f8a60904e046fe4">Macierz::Macierz</a></div><div class="ttdeci">Macierz()</div><div class="ttdoc">Konstruktor ktory zapewnia ze stworzona Macierz bedzie odrazu jednostkowa. </div><div class="ttdef"><b>Definition:</b> <a href="_macierz_8hh_source.html#l00093">Macierz.hh:93</a></div></div>
+<div class="ttc" id="_macierz3x3_8hh_html_ad8a4e4d0396266592222e58b065189ce"><div class="ttname"><a href="_macierz3x3_8hh.html#ad8a4e4d0396266592222e58b065189ce">operator*</a></div><div class="ttdeci">Macierz3x3 operator*(const Macierz3x3 &amp;MacierzA, const Macierz3x3 &amp;MacierzB)</div><div class="ttdoc">Przeciazenie operatora mnozenia dla dwoch obiektow klasy Macierz3x3. </div><div class="ttdef"><b>Definition:</b> <a href="_macierz3x3_8cpp_source.html#l00004">Macierz3x3.cpp:4</a></div></div>
+<div class="ttc" id="class_wektor_html"><div class="ttname"><a href="class_wektor.html">Wektor</a></div><div class="ttdoc">Moduł narzędzi umożliwiających dzialania na wektorze. </div><div class="ttdef"><b>Definition:</b> <a href="_wektor_8hh_source.html#l00023">Wektor.hh:23</a></div></div>
+<div class="ttc" id="class_macierz_html"><div class="ttname"><a href="class_macierz.html">Macierz</a></div><div class="ttdoc">Klasa modeluje pojecie macierzy. </div><div class="ttdef"><b>Definition:</b> <a href="_macierz_8hh_source.html#l00026">Macierz.hh:26</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_4aa64b0872d36146e049722e293482e3.html">prj</a></li><li class="navelem"><a class="el" href="dir_72345776cd6700fb0dedb8f1faaa0c00.html">inc</a></li><li class="navelem"><a class="el" href="_macierz_8hh.html">Macierz.hh</a></li>
+    <li class="footer">Wygenerowano przez
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
+  </ul>
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_scena.html#ae3f174de180ed618cafb56f1d50c91c7" title="Metoda umozliwiajaca sterowanie aktualnym dronem. " alt="" coords="104,93,299,135"/>
+<area shape="rect" id="node3" href="$_funkcje_do_menu_8hh.html#ae7c1829950587c3c9eb9089684150c19" title="Funkcja pozwalajaca na wyswietlenie menu na cout. " alt="" coords="347,101,455,127"/>
+<area shape="rect" id="node4" href="$class_wektor.html#a9ee79389dfef2a5cc8a376e128820d76" title="Metoda zwraca ilosc stworzonych obiektow klasy Wektor. " alt="" coords="525,5,707,47"/>
+<area shape="rect" id="node5" href="$class_wektor.html#a3cd1385dfa3d738c93679358fba81c01" title="Metoda zwraca ilosc aktualnie uzywanych obiektow klasy Wektor. " alt="" coords="503,71,729,98"/>
+<area shape="rect" id="node6" href="$class_obiekt_sceny.html#a19d35fa5616d2e56188495b3520733f7" title="Metoda zwraca ilosc LacznaIloscObiektowScenow. " alt="" coords="525,123,707,164"/>
+<area shape="rect" id="node7" href="$class_obiekt_sceny.html#a192ff9fca1bd95d067348606be1149f3" title="Metoda zwraca ilosc aktualnie istniejacych IloscObiektowSceny. " alt="" coords="504,188,728,229"/>
+</map>

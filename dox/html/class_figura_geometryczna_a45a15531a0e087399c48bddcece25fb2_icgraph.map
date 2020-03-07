@@ -1,0 +1,5 @@
+<map id="FiguraGeometryczna::PrzesunDodajDoWektoraPrzesuniecia" name="FiguraGeometryczna::PrzesunDodajDoWektoraPrzesuniecia">
+<area shape="rect" id="node2" href="$class_dron.html#a23f88c97ab3874eb69ea71e3539a5f59" title="Metoda ktora przesuwa poszczegolne skladowe klasy Dron oraz dodaje do WektoraPrzesuniecia poszczegoln..." alt="" coords="307,23,499,65"/>
+<area shape="rect" id="node3" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="547,5,763,32"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="811,31,997,57"/>
+</map>

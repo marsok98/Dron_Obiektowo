@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Fabryka_Obiektow: Plik źródłowy FabrykaObiektow.hh</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Fabryka_Obiektow
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano przez Doxygen 1.8.13 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',false,false,'search.php','Szukaj');
+});
+</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){initNavTree('_fabryka_obiektow_8hh_source.html','');});
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">FabrykaObiektow.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_fabryka_obiektow_8hh.html">Idź do dokumentacji tego pliku.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#pragma once</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;</div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_dron_8hh.html">Dron.hh</a>&quot;</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_obiekt_sceny_8hh.html">ObiektSceny.hh</a>&quot;</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="_przeszkoda_pr_8hh.html">PrzeszkodaPr.hh</a>&quot;</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;memory&gt;</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00017"></a><span class="lineno"><a class="line" href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6">   17</a></span>&#160;<span class="keyword">enum</span> <a class="code" href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6">TypObiektu</a>{<a class="code" href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6a0349261f505b36305e1a7468fd941de8">Robot</a>,<a class="code" href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6ad6ec779298ead40e6dc2213a5dc2359f">Przeszkoda</a>};</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="comment"> * \brief Klasa modelujaca pojecie  FabrykeObiektow ktora bedzie odpowiedzialna za Tworzenie Obiektow Sceny</span></div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="comment"> * </span></div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="comment"> * Klasa zapewnia nam mozliwosc tworzenia obiektow </span></div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;<span class="comment"> */</span></div><div class="line"><a name="l00023"></a><span class="lineno"><a class="line" href="class_fabryka_obiektow.html">   23</a></span>&#160;<span class="keyword">class </span><a class="code" href="class_fabryka_obiektow.html">FabrykaObiektow</a></div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;{</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;    <span class="keyword">public</span>:</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;    <span class="comment">/*</span></div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="comment">     * \brief Metoda umozliwiajaca stworzenie Obiektu Sceny</span></div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="comment">     * </span></div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="comment">     * Metoda zwraca wskaznik do nowo utworzonego obiektu Sceny</span></div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="comment">     * \param[in] Typ - Typ wyliczeniowy mogacy przyjmowac wartosci Robot i Przeszkoda</span></div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="comment">     * \return shared_ptr&lt;ObiektSceny&gt; Wskaznik na nowo powstaly obiektsceny, moze to byc </span></div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment">     * Dron albo Przeszkoda Pr</span></div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment">     */</span></div><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;    shared_ptr&lt;ObiektSceny&gt; <a class="code" href="class_fabryka_obiektow.html#aa496186d35c7d3c85aaaec7fd822f7dc">StworzObiekt</a>(<a class="code" href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6">TypObiektu</a> Typ);</div><div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;};</div><div class="ttc" id="_fabryka_obiektow_8hh_html_a1597a8b16dab81fca366e9b9deffc6e6ad6ec779298ead40e6dc2213a5dc2359f"><div class="ttname"><a href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6ad6ec779298ead40e6dc2213a5dc2359f">Przeszkoda</a></div><div class="ttdef"><b>Definition:</b> <a href="_fabryka_obiektow_8hh_source.html#l00017">FabrykaObiektow.hh:17</a></div></div>
+<div class="ttc" id="class_fabryka_obiektow_html_aa496186d35c7d3c85aaaec7fd822f7dc"><div class="ttname"><a href="class_fabryka_obiektow.html#aa496186d35c7d3c85aaaec7fd822f7dc">FabrykaObiektow::StworzObiekt</a></div><div class="ttdeci">shared_ptr&lt; ObiektSceny &gt; StworzObiekt(TypObiektu Typ)</div><div class="ttdef"><b>Definition:</b> <a href="_fabryka_obiektow_8cpp_source.html#l00003">FabrykaObiektow.cpp:3</a></div></div>
+<div class="ttc" id="_obiekt_sceny_8hh_html"><div class="ttname"><a href="_obiekt_sceny_8hh.html">ObiektSceny.hh</a></div></div>
+<div class="ttc" id="_dron_8hh_html"><div class="ttname"><a href="_dron_8hh.html">Dron.hh</a></div></div>
+<div class="ttc" id="_fabryka_obiektow_8hh_html_a1597a8b16dab81fca366e9b9deffc6e6"><div class="ttname"><a href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6">TypObiektu</a></div><div class="ttdeci">TypObiektu</div><div class="ttdoc">Typ wyliczeniowy okreslajacy wybor Robot czy Przeszkoda. </div><div class="ttdef"><b>Definition:</b> <a href="_fabryka_obiektow_8hh_source.html#l00017">FabrykaObiektow.hh:17</a></div></div>
+<div class="ttc" id="_fabryka_obiektow_8hh_html_a1597a8b16dab81fca366e9b9deffc6e6a0349261f505b36305e1a7468fd941de8"><div class="ttname"><a href="_fabryka_obiektow_8hh.html#a1597a8b16dab81fca366e9b9deffc6e6a0349261f505b36305e1a7468fd941de8">Robot</a></div><div class="ttdef"><b>Definition:</b> <a href="_fabryka_obiektow_8hh_source.html#l00017">FabrykaObiektow.hh:17</a></div></div>
+<div class="ttc" id="class_fabryka_obiektow_html"><div class="ttname"><a href="class_fabryka_obiektow.html">FabrykaObiektow</a></div><div class="ttdef"><b>Definition:</b> <a href="_fabryka_obiektow_8hh_source.html#l00023">FabrykaObiektow.hh:23</a></div></div>
+<div class="ttc" id="_przeszkoda_pr_8hh_html"><div class="ttname"><a href="_przeszkoda_pr_8hh.html">PrzeszkodaPr.hh</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_4aa64b0872d36146e049722e293482e3.html">prj</a></li><li class="navelem"><a class="el" href="dir_72345776cd6700fb0dedb8f1faaa0c00.html">inc</a></li><li class="navelem"><a class="el" href="_fabryka_obiektow_8hh.html">FabrykaObiektow.hh</a></li>
+    <li class="footer">Wygenerowano przez
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
+  </ul>
+</div>
+</body>
+</html>

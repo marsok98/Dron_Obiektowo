@@ -1,0 +1,8 @@
+<map id="FiguraGeometryczna::ZapisFiguryDoPliku" name="FiguraGeometryczna::ZapisFiguryDoPliku">
+<area shape="rect" id="node2" href="$class_dron.html#a14d35c4eeb974a1526a6f607930ee95b" title="Metoda ktora zapisuje Drona do 5 plikow. " alt="" coords="213,56,401,83"/>
+<area shape="rect" id="node7" href="$class_przeszkoda_pr.html#adb65d0f8791f6724e02620fe12681e2d" title="Metoda ktora zapisuje Przeszkode Prostopadloscienna do pliku. " alt="" coords="197,107,417,149"/>
+<area shape="rect" id="node3" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="715,31,931,57"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="979,56,1165,83"/>
+<area shape="rect" id="node5" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="465,81,667,108"/>
+<area shape="rect" id="node6" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="726,132,919,159"/>
+</map>

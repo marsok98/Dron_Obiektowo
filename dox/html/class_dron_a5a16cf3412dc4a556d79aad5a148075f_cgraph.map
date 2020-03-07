@@ -1,0 +1,29 @@
+<map id="Dron::PobierzGruboscDrona" name="Dron::PobierzGruboscDrona">
+<area shape="rect" id="node2" href="$class_dron.html#a715d6bc30f1a73e4078c5e0c761a0ade" title="Metoda ktora sprawdza czy zaszla kolizja miedzy dronami. " alt="" coords="268,46,428,73"/>
+<area shape="rect" id="node5" href="$class_dron.html#ae5219d22da254cba3e57c52d709c5d26" title="Metoda ktora wczytuje z cin skale drona i zapisuje do pola SkalaDrona. " alt="" coords="261,129,435,155"/>
+<area shape="rect" id="node6" href="$class_dron.html#aadec0bd26042be4d0d1536da3ddd79f9" title="Metoda ktora wywoluje metody Inicjalizuj dla poszczegolnych skladowych klasy Drona. " alt="" coords="292,179,404,206"/>
+<area shape="rect" id="node10" href="$class_dron.html#ad717c641f65dcca6fd7fcadcfc3a6488" title="Metoda Dodaje pliki do Lacza Gnuplota. " alt="" coords="265,262,431,289"/>
+<area shape="rect" id="node12" href="$class_dron.html#a14d35c4eeb974a1526a6f607930ee95b" title="Metoda ktora zapisuje Drona do 5 plikow. " alt="" coords="810,430,998,457"/>
+<area shape="rect" id="node14" href="$class_dron.html#a23f88c97ab3874eb69ea71e3539a5f59" title="Metoda ktora przesuwa poszczegolne skladowe klasy Dron oraz dodaje do WektoraPrzesuniecia poszczegoln..." alt="" coords="517,311,709,352"/>
+<area shape="rect" id="node16" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="240,427,456,454"/>
+<area shape="rect" id="node17" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="513,630,714,657"/>
+<area shape="rect" id="node25" href="$class_dron.html#ab2aa15f89c0c9b87e73c084b43dfe177" title="Metoda przesuwa poszczegolne skladowe klasy na srodek ukladu wspolrzednych. " alt="" coords="514,732,713,773"/>
+<area shape="rect" id="node26" href="$class_dron.html#af050336d92fb927d222229499c4b9050" title="Metoda ktora jest wykorzystywana po przesunieciu drona o maly kat zeby powrocic do pozycji przed prze..." alt="" coords="514,797,713,839"/>
+<area shape="rect" id="node27" href="$class_dron.html#a73d0c186c0346ae2cd6e5ab653ddc39d" title="Metoda umozliwiajaca obrocenie drona za pomoca MacierzObrotu. " alt="" coords="549,863,677,890"/>
+<area shape="rect" id="node28" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="251,635,445,662"/>
+<area shape="rect" id="node3" href="$class_dron.html#adcdf161a9c0fb12ca46b87765e58e4ed" title="Metoda umozliwia pobranie Wektora Przesuniecia z korpusu co jest jednoznaczne punktem srodka Drona..." alt="" coords="504,13,723,39"/>
+<area shape="rect" id="node4" href="$class_figura_geometryczna.html#ae918810e15c7f5f90fdd8d315f361b75" title="Metoda umozliwia pobranie Wektora Przesuniecia co jest jednoznaczne punktem srodka tej figury..." alt="" coords="809,5,999,47"/>
+<area shape="rect" id="node7" href="$class_prostopadloscian.html#a488debf3cda363bf41c03a7797c2f4b8" title="Metoda inicjalizuje wierzcholki prostopadloscianu do zadanych wartosci. " alt="" coords="521,63,705,90"/>
+<area shape="rect" id="node8" href="$class_graniastoslup6.html#ab0a15d736257ddb309e06badc426892b" title="Metoda inicjalizuje wierzcholki Graniastoslupa szesciokatnego foremnego. " alt="" coords="528,114,699,141"/>
+<area shape="rect" id="node9" href="$class_figura_geometryczna.html#ae433afbbd8e9c6d5530b970d9430b9eb" title="Metoda umozliwia dodanie Wektora3D do WektoraOffsetu. " alt="" coords="529,165,698,221"/>
+<area shape="rect" id="node11" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a2b5f384e9d6aefd423987dd2c4d46da7" title="Dodaje nazwę pliku. " alt="" coords="529,245,697,287"/>
+<area shape="rect" id="node13" href="$class_figura_geometryczna.html#a112eeabdbfaf9312a1725681a264255a" title="Metoda Zapisuje Figure do pliku z odpowiednia notacja. " alt="" coords="1085,423,1229,464"/>
+<area shape="rect" id="node15" href="$class_figura_geometryczna.html#a45a15531a0e087399c48bddcece25fb2" title="Metoda umozliwiajaca przesuniecie FiguryGeometrycznej o Wektor3D oraz dodanie do WektoraPrzesuniecia..." alt="" coords="777,311,1031,352"/>
+<area shape="rect" id="node24" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota. " alt="" coords="820,484,988,525"/>
+<area shape="rect" id="node18" href="$_macierz3x3_8hh.html#ac48ad03c16eb91a198f8ee02fe0daf2c" title="Funkcja tworzy macierz obrotu przez os OZ. " alt="" coords="845,681,963,707"/>
+<area shape="rect" id="node19" href="$class_figura_geometryczna.html#a7785d792448bbd01758900602d3ba063" title="Metoda odejmuje WektorOffsetu. " alt="" coords="833,549,975,591"/>
+<area shape="rect" id="node20" href="$class_figura_geometryczna.html#a50870cb960a6d5cc9b20bdafb5a910d3" title="Metoda umozliwia powrot AktualnegoWierzcholka do polozenia poczatkowego tzn AktualnyWierzcholek = Poc..." alt="" coords="771,732,1037,773"/>
+<area shape="rect" id="node21" href="$class_figura_geometryczna.html#ad2cb8225722b1ca29f7cfb51b243a819" title="Metoda obraca figure czyli przemnaza Wierzcholki Figury. " alt="" coords="833,863,975,904"/>
+<area shape="rect" id="node22" href="$class_figura_geometryczna.html#adbb5d81408c1aeead194eb39a9180be3" title="Metoda dodaje WektorOffsetu. " alt="" coords="833,615,975,656"/>
+<area shape="rect" id="node23" href="$class_figura_geometryczna.html#ad1907103d33eeb42e3a4eccf0c087a9d" title="Metoda dodaje do AktualnegoWierzcholka WektorPrzesuniecia. " alt="" coords="790,797,1018,839"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FiguraGeometryczna::ObrocFigure" name="FiguraGeometryczna::ObrocFigure">
+<area shape="rect" id="node2" href="$class_dron.html#a73d0c186c0346ae2cd6e5ab653ddc39d" title="Metoda umozliwiajaca obrocenie drona za pomoca MacierzObrotu. " alt="" coords="233,26,361,53"/>
+<area shape="rect" id="node5" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="196,77,397,103"/>
+<area shape="rect" id="node3" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="457,26,650,53"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="709,51,896,78"/>
+<area shape="rect" id="node6" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="445,127,661,154"/>
+</map>

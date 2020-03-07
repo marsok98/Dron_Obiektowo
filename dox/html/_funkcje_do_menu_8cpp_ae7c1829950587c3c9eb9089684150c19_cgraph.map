@@ -1,0 +1,6 @@
+<map id="WyswietlMenu" name="WyswietlMenu">
+<area shape="rect" id="node2" href="$class_wektor.html#a9ee79389dfef2a5cc8a376e128820d76" title="Metoda zwraca ilosc stworzonych obiektow klasy Wektor. " alt="" coords="184,5,365,47"/>
+<area shape="rect" id="node3" href="$class_wektor.html#a3cd1385dfa3d738c93679358fba81c01" title="Metoda zwraca ilosc aktualnie uzywanych obiektow klasy Wektor. " alt="" coords="161,71,388,98"/>
+<area shape="rect" id="node4" href="$class_obiekt_sceny.html#a19d35fa5616d2e56188495b3520733f7" title="Metoda zwraca ilosc LacznaIloscObiektowScenow. " alt="" coords="183,123,366,164"/>
+<area shape="rect" id="node5" href="$class_obiekt_sceny.html#a192ff9fca1bd95d067348606be1149f3" title="Metoda zwraca ilosc aktualnie istniejacych IloscObiektowSceny. " alt="" coords="163,188,387,229"/>
+</map>

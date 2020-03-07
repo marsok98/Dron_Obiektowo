@@ -1,0 +1,7 @@
+<map id="FiguraGeometryczna::PrzesunNaSrodekUkladuWspolrzednych" name="FiguraGeometryczna::PrzesunNaSrodekUkladuWspolrzednych">
+<area shape="rect" id="node2" href="$class_dron.html#ab2aa15f89c0c9b87e73c084b43dfe177" title="Metoda przesuwa poszczegolne skladowe klasy na srodek ukladu wspolrzednych. " alt="" coords="321,11,520,53"/>
+<area shape="rect" id="node5" href="$class_dron.html#a36c84e917ce2d1dfe21d6ea66bb4375c" title="Metoda umozliwia animowany obrot smigiel. " alt="" coords="320,77,521,104"/>
+<area shape="rect" id="node3" href="$class_dron.html#a6a2656f09ed58e3845b49350f01327b8" title="Metoda umozliwia animowany obrot drona wokol wlasnej osi. " alt="" coords="581,27,774,53"/>
+<area shape="rect" id="node4" href="$class_dron.html#a5a16cf3412dc4a556d79aad5a148075f" title="Dron::PobierzGruboscDrona" alt="" coords="833,52,1020,79"/>
+<area shape="rect" id="node6" href="$class_dron.html#a57438556cf7d1fdda9797d4774544d6e" title="Metoda odpowiada za Animowany Ruch na wprost. " alt="" coords="569,128,785,155"/>
+</map>

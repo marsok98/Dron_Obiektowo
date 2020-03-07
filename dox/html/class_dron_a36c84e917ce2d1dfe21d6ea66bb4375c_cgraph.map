@@ -1,0 +1,11 @@
+<map id="Dron::AnimowanyObrotSmigiel" name="Dron::AnimowanyObrotSmigiel">
+<area shape="rect" id="node2" href="$_macierz3x3_8hh.html#ac48ad03c16eb91a198f8ee02fe0daf2c" title="Funkcja tworzy macierz obrotu przez os OZ. " alt="" coords="329,5,447,32"/>
+<area shape="rect" id="node3" href="$class_figura_geometryczna.html#a7785d792448bbd01758900602d3ba063" title="Metoda odejmuje WektorOffsetu. " alt="" coords="317,57,459,98"/>
+<area shape="rect" id="node4" href="$class_figura_geometryczna.html#a50870cb960a6d5cc9b20bdafb5a910d3" title="Metoda umozliwia powrot AktualnegoWierzcholka do polozenia poczatkowego tzn AktualnyWierzcholek = Poc..." alt="" coords="255,122,521,163"/>
+<area shape="rect" id="node5" href="$class_figura_geometryczna.html#ad2cb8225722b1ca29f7cfb51b243a819" title="Metoda obraca figure czyli przemnaza Wierzcholki Figury. " alt="" coords="317,187,459,229"/>
+<area shape="rect" id="node6" href="$class_figura_geometryczna.html#adbb5d81408c1aeead194eb39a9180be3" title="Metoda dodaje WektorOffsetu. " alt="" coords="317,253,459,294"/>
+<area shape="rect" id="node7" href="$class_figura_geometryczna.html#ad1907103d33eeb42e3a4eccf0c087a9d" title="Metoda dodaje do AktualnegoWierzcholka WektorPrzesuniecia. " alt="" coords="274,318,502,359"/>
+<area shape="rect" id="node8" href="$class_dron.html#a14d35c4eeb974a1526a6f607930ee95b" title="Metoda ktora zapisuje Drona do 5 plikow. " alt="" coords="294,384,482,411"/>
+<area shape="rect" id="node10" href="$class_pz_g_1_1_lacze_do_g_n_u_plota.html#a065f5b8402737cc62b0ad4f66d028335" title="Generuje polecenie rysowania i przesyła je do gnuplota. " alt="" coords="304,435,472,477"/>
+<area shape="rect" id="node9" href="$class_figura_geometryczna.html#a112eeabdbfaf9312a1725681a264255a" title="Metoda Zapisuje Figure do pliku z odpowiednia notacja. " alt="" coords="569,377,713,418"/>
+</map>
