@@ -1,3 +1,6 @@
+Program pisany na zaliczenie kursu Programowanie Obiektowe Wydział Elektroniki na kierunku Automatyka i Robotyka
+
+
 #Dron_Obiektowo
 
 Program ma dołączoną dokumentację w postaci Doxygena.
